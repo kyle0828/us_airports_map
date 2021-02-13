@@ -1,7 +1,7 @@
 # us airports map
 The map indicates the number of airports in each state within the US, and also showing whether each of the airports has an air traffic control tower or not.
 
-![](img/us_airport.png)
+![](img/image.png)
 
 ### Functions
 - clickable marker (airport name will show up)
